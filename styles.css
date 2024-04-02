@@ -5,3 +5,37 @@ Assignment Name: My Schedule
 Filename: styles.css
 */
 
+/* Page Design
+*/
+
+Body {background-image: url(otceagle.jpg); background-size: 400px; background-repeat: no-repeat; background-position: top left; 
+margin-right: 100px;}
+
+.OTC-Container {
+    color: rgb(58, 58, 205);
+    font-size: 40px;
+    font-family: serif;
+    margin-left: 300px;
+    text-align: center;
+      
+}
+
+img {
+    margin-top: 200px;
+    border-radius: 10%;
+}
+
+table {
+    float: right;
+    margin-top: 200px;
+    border: 2px rgb(65, 65, 67) solid;
+    text-align: center;
+}
+
+h1 { text-align: center;
+color: rgb(58, 58, 205);
+border-bottom:2px rgb(65, 65, 67) solid; }
+
+th, td {border: 2px rgb(65, 65, 67) solid;
+
+}
